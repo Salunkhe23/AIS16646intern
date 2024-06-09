@@ -28,5 +28,19 @@ Numbers:int,float,complex
 Notebook 8)
 Dictionary:Loop ,copy,nested,add, remove
 
+Day 2):
+Task 2:
+Notebbok 1)
+If condition:if condition statement used to check a condition and execute.which utilozes decision-making to control the flow of execution.
+Notebook 2)
+If-else condition :if-else condition the program checks the condition associated with it the corresponding block of code is executed.
+Notebook 3)
+If-elif condition:The if-elif statement is shortcut of if-else while using if-elif statement at the end else block is added which is performed if none of the above.
+Notebook 4)
+For loop:The for loop in python is used to iterate over a sequence (like a list, tuple,or string)or other iterable objects.
+Notebook 5)
+While loop:The while loop is a control flow statement which allows code to be executed repeately ,depending on whether a condition is satisfied or not.
+
+
 
 
