@@ -41,6 +41,42 @@ For loop:The for loop in python is used to iterate over a sequence (like a list,
 Notebook 5)
 While loop:The while loop is a control flow statement which allows code to be executed repeately ,depending on whether a condition is satisfied or not.
 
+****Day 3):
+Task 3**
+Notebook 1:Break statement
+Notebook 2:pass statement 
+Notebook 3:continue statement
+Noteook 4:statistical user define function:mean,variance,median,range,mode,like,maximum,minimum
+Notebook 5:Logical user define function,or,and,not,odd,even
 
+****Day 4):
+Task 4**
+**Notebook 1:Numpy home,Numpy creating arrays ,arrays indexing ,array sclicing,data types,copy or view,array shape,array iterating,array join,array sort
+**Notebook 2** Numpy random,random permutation,normal distribution,binomial distribution,poisson distribution,uniform distribution,Logistic distribution,multinomial distribution
+               exponential distribution,exponential distribution,pareto distribution
+
+ **Day 5):
+ Task 5**
+ Pandas library Dataframe read CSV and xlsx file DataFrame operation value count,apply,unique,nunique,describe,
+ **Selection** :DataFrame col,row,selection(loc,iloc) conditional selection column add,delete,update,index,remove index
+ **Operation** :Addition ,substraction,multiplication,division,missing value ,missing value checking, missing value drop by row and by column
+
+ **Task 6**
+ Mitoplotlib Library & Seaborn Library line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
+
+ **Task 7**
+ 1)Numpy Exercise 2) Ecomerse Exercise 3)Salaries Exercise
+
+ **Task 8**
+ case study
+
+ **Task 9**
+ Dashboard Creating
+
+ **Task 10**
+ Project
+
+ 
+****
 
 
